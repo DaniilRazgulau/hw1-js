@@ -8,7 +8,10 @@
 
 //N3
 
-
+let width = 10;
+let height = 23
+let S = width * height;
+console.log(S);
 
 //N4
 
